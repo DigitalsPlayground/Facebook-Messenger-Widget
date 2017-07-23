@@ -1,6 +1,6 @@
 Facebook Messenger Widget For Sending Instant Messages to Blog Admin 
 
-Step 1: Login to your Blogger account, and got to your Blogger Dashboard
+Step 1: Login to your Blogger account, and go to your Blogger Dashboard
 Step 2: Go to your blogger layout section
 Step 3: Click on Add a Gadget, then select HTML/JavaScript gadget.
         Copy the code at the file index.html of this repository.
